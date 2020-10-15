@@ -1,0 +1,2 @@
+# python
+pycharm创建Django项目并且连接Mysql数据库
